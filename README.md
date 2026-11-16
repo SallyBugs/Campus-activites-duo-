@@ -1,3 +1,4 @@
+ceci est une phrase de test pour le tp
 # Campus activités
 
 Maquette de départ du projet BTS SIO SLAM. Ouvrez le cahier des charges Word situé à côté de ce dossier dans le ZIP.
