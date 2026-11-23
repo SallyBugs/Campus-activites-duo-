@@ -1,5 +1,6 @@
 ceci est une phrase de test pour le tp
 Kaouane Reda Semery Dionys
+Sur 3h de travail il faut ensuite minimum 1h avec lucia mon bb
 # Campus activités
 
 Maquette de départ du projet BTS SIO SLAM. Ouvrez le cahier des charges Word situé à côté de ce dossier dans le ZIP.
