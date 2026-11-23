@@ -1,7 +1,7 @@
 ceci est une phrase de test pour le tp
 Kaouane Reda Semery Dionys
 Sur 3h de travail il faut ensuite minimum 1h avec lucia mon bb
-Phrase de présentation : Découvrez les activités du campus.
+Phrase de présentation :  Participez aux ateliers du campus.
 
 # Campus activités
 
